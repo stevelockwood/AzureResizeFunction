@@ -1,3 +1,5 @@
+This repo orig came from https://github.com/Azure-Samples/function-image-upload-resize
+
 ---
 page_type: sample
 languages:
